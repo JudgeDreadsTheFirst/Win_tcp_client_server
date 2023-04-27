@@ -1,4 +1,4 @@
-// Client part for Server-Client chat. Developed by Mr_Dezz
+
 #define WIN32_LEAN_AND_MEAN
 #define _WIN32_WINNT 0x0600
 
@@ -20,6 +20,7 @@
 
 
 // TODO: переписать работу с клиентом, создать его как класс
+// TODO: сделать так что  бы IP и порт передавались как аргументы командной строки
 
 int main(void)
 {
